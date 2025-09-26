@@ -85,7 +85,7 @@
                 
                 <div class="space-y-4 text-amber-800">
                     <p class="leading-relaxed">
-                        I'm writing this letter Lens to sincerely apologize for my actions. I realize now that was wrong, and I deeply regret any pain or inconvenience I may have caused you😢.
+                        I'm writing this letter Lens to sincerely apologize for my actions. I realize that was wrong, and I deeply regret any pain or inconvenience I may have caused you😢.
                     </p>
                     
                     <p class="leading-relaxed">
